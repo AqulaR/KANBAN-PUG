@@ -1,0 +1,14 @@
+{
+	"board_names": {
+        "1": "To do",
+        "2": "In work",
+        "3": "Done"
+    },
+    "status": {
+        "1": "srochno",
+        "2": "med",
+        "3": "nesrochno",
+        "4": "supernesrochno",
+        "5": "done"
+    }
+}
